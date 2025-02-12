@@ -6,11 +6,11 @@ import { cardStyles, chipStyles, projectsBoxStyles } from "./componentStyles";
 function Project() {
     const projects = [
         {
-            title: "AI-Powered Analytics Dashboard",
-            description: "Real-time business analytics platform with predictive capabilities",
-            image: "https://images.unsplash.com/photo-1557821552-17105176677c",
-            tech: ['React', 'Node.js', 'TensorFlow', 'MongoDB'],
-            github: "#",
+            title: "YouTube Analyzer",
+            description: "Real-time youtube playlist analysis platform with sentiment analysis",
+            image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+            tech: ['Next.js', 'TypeSript', 'ShadCNUI', 'Crawlee'],
+            github: "https://github.com/Akashky/youtube-analyzer",
             demo: "#"
         },
         {
@@ -22,12 +22,12 @@ function Project() {
             demo: "#"
         },
         {
-            title: "Collaboration Suite",
-            description: "Real-time document collaboration platform with version control",
-            image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
-            tech: ['TypeScript', 'WebSockets', 'Material UI'],
-            github: "#",
-            demo: "#"
+            title: "Custom Compiler",
+            description: "Built a custom compiler to translate high-level code into optimized machine code.",
+            image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            tech: ['JavaScript', 'Judge0', 'Material UI'],
+            github: "https://github.com/Akashky/code-editor",
+            demo: "https://multi-lingual-compiler.netlify.app/"
         }
     ];
 

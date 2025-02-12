@@ -27,7 +27,7 @@ function About() {
                                 Who Am I?
                             </Typography>
                             <Typography variant="body1" sx={{ lineHeight: 1.8 }}>
-                                I&apos;m a Full Stack Developer with 3+ years of experience in building enterprise-level applications.
+                                I&apos;m a Full Stack Developer with 4+ years of experience in building enterprise-level applications.
                                 Specialized in MERN stack development with a focus on performance optimization and clean architecture.
                             </Typography>
                             <Typography variant="body1" sx={{ lineHeight: 1.8 }}>
